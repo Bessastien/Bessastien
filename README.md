@@ -42,7 +42,7 @@ Welcome to my portfolio! My name is Sébastien DABERT, and I am passionate about
 
 ## Contact
 
-- [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) Email : **sebastien.dabert@etu.unilim.fr** or **sebdab86@gmail.com**
-- [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) Instagram : [Bessastien](https://www.instagram.com/bessastien/)
-- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) LinkedIn : [Sébastien DABERT](https://fr.linkedin.com/in/s%C3%A9bastien-dabert-0940b51b9)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) Email : **sebastien.dabert@etu.unilim.fr** or **sebdab86@gmail.com**
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) Instagram : [Bessastien](https://www.instagram.com/bessastien/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) LinkedIn : [Sébastien DABERT](https://fr.linkedin.com/in/s%C3%A9bastien-dabert-0940b51b9)
 
