@@ -18,7 +18,7 @@ Welcome to my portfolio! My name is Sébastien DABERT, and I am passionate about
 
 ## About Me
 
-- 🏡 Based in Limoge and Poitiers, France
+- 🏡 Based in Limoges and Poitiers, France
 - 👨‍🎓 I’m currently studying BUT Informatique
 - 🌱 I'm 18 year old 
 
@@ -38,7 +38,7 @@ Welcome to my portfolio! My name is Sébastien DABERT, and I am passionate about
 
 ## Tools:
 
-  [![My Skills](https://skillicons.dev/icons?i=discord,github,debian,windows,phpstorm,pycharm,clion,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=discord,github,debian,windows,phpstorm,pycharm,clion,idea,vscode)](https://skillicons.dev)
 
 ## Contact
 
